@@ -1,0 +1,43 @@
+﻿Installing assembly 'C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe
+   logfile = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.InstallLog
+Installing service ArpProtect...
+Service ArpProtect has been successfully installed.
+Creating EventLog source ArpProtect in log Application...
+Committing assembly 'C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe
+   logfile = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe
+   logfile = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.InstallLog
+Removing EventLog source ArpProtect.
+Service ArpProtect is being removed from the system...
+Service ArpProtect was successfully removed from the system.
+Attempt to stop service ArpProtect.
+Uninstalling assembly 'C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe
+   logfile = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.InstallLog
+Removing EventLog source ArpProtect.
+Warning: The source ArpProtect is not registered on the local machine.
+Service ArpProtect is being removed from the system...
+Service ArpProtect was successfully removed from the system.
+Attempt to stop service ArpProtect.
+Uninstalling assembly 'C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.exe
+   logfile = C:\Documents and Settings\Baran\Desktop\ArpProtect\ArpProtect\ArpProtect\ArpProtect\bin\Release\ArpProtect.InstallLog
+Removing EventLog source ArpProtect.
+Warning: The source ArpProtect is not registered on the local machine.
+Service ArpProtect is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: Belirtilen hizmet, yüklü bir hizmet olarak yok
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
